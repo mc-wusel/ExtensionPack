@@ -2,7 +2,7 @@
   "name": "mc-wusels",
   "displayName": "mc-wusel's Extension Pack",
   "description": "A package compilation that makes my daily work easier.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "mc-wusel",
   "author": {
     "name": "mc-wusel",
@@ -37,7 +37,7 @@
     "chunsen.bracket-select",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
-    "donjayamanne.gethistory",
+    "donjayamanne.githistory",
     "GitHub.vscode-pull-request-github",
     "wayou.vscode-todo-highlight",
     "Gruntfuggly.todo-tree",
