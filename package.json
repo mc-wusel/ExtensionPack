@@ -1,0 +1,47 @@
+{
+  "name": "",
+  "displayName": "mc-wusel's Extension Pack",
+  "description": "A package compilation that makes my daily work easier.",
+  "version": "1.0.0",
+  "publisher": "mc-wusel",
+  "author": {
+    "name": "mc-wusel",
+    "url": "",
+    "email": ""
+  },
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "galleryBanner": {
+    "color": "#0060A0",
+    "theme": "dark"
+  },
+  "icon": "",
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/mc-wusel/ExtensionPack/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mc-wusel/ExtensionPack"
+  },
+  "extensionPack": [
+    "vscode-icons-team.vscode-icons",
+    "humao.rest-client",
+    "ms-vscode.remote-explorer",
+    "ms-vscode-remote.remote-ssh",
+    "chunsen.bracket-select",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "donjayamanne.gethistory",
+    "GitHub.vscode-pull-request-github",
+    "wayou.vscode-todo-highlight",
+    "Gruntfuggly.todo-tree",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.powershell"
+  ]
+}
