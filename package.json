@@ -2,7 +2,7 @@
   "name": "mc-wusels",
   "displayName": "mc-wusel's Extension Pack",
   "description": "A package compilation that makes my daily work easier.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "mc-wusel",
   "author": {
     "name": "mc-wusel",
@@ -42,6 +42,9 @@
     "wayou.vscode-todo-highlight",
     "Gruntfuggly.todo-tree",
     "dbaeumer.vscode-eslint",
-    "ms-vscode.powershell"
+    "ms-vscode.powershell",
+    "shd101wyy.markdown-preview-enhanced",
+    "ms-vscode-remote.remote-ssh-edit",
+    "bierner.docs-view"
   ]
 }
