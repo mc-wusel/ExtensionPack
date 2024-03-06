@@ -1,8 +1,8 @@
 # [1.0.2]
 
-Added "Markdown Preview Enhanced"
-Added "Remote - SSH: Editing Configuration Files"
-Added "Docs View"
+- Added "Markdown Preview Enhanced"
+- Added "Remote - SSH: Editing Configuration Files"
+- Added "Docs View"
 
 # [1.0.1]
 
