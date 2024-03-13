@@ -1,3 +1,6 @@
+# [1.0.3]
+- Added "ALdefaultProjectSettings"
+
 # [1.0.2]
 
 - Added "Markdown Preview Enhanced"
