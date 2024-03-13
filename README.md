@@ -18,3 +18,5 @@
 | Git History                               | ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/donjayamanne.githistory?style=plastic)               |
 | Markdown Preview Enhanced                 | ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/shd101wyy.markdown-preview-enhanced?style=plastic)   |
 | Docs View                                 | ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/bierner.docs-view?style=plastic)                     |
+| ALdefaultProjectSettings                  | ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/mc-wusel.al-default-project-settings?style=plastic)  |
+
