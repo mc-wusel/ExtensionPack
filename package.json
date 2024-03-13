@@ -45,6 +45,7 @@
     "ms-vscode.powershell",
     "shd101wyy.markdown-preview-enhanced",
     "ms-vscode-remote.remote-ssh-edit",
-    "bierner.docs-view"
+    "bierner.docs-view",
+    "mc-wusel.al-default-project-settings"
   ]
 }
